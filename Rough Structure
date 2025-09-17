@@ -1,0 +1,34 @@
+ml-meme-edu/
+│
+├── backend/                # FastAPI app
+│   ├── app/
+│   │   ├── main.py         # FastAPI entry
+│   │   ├── routes/         # API endpoints
+│   │   ├── services/       # meme gen, validation, rendering
+│   │   ├── models/         # Pydantic schemas
+│   │   └── utils/          
+│   ├── assets/templates/   # meme template images
+│   ├── kb/                 # knowledge base JSON
+│   │   ├── ml_fundamentals.json
+│   │   └── seed_memes.json
+│   ├── static/memes/       # generated memes
+│   ├── .env.example        # example env file
+│   └── requirements.txt
+│
+├── frontend/               # React or Next.js app
+│   ├── src/
+│   │   ├── components/     # MemeCard, SearchBar
+│   │   └── pages/
+│   ├── package.json
+│   └── README.md
+│
+├── docs/                   # Documentation
+│   ├── architecture.md     # Diagrams, flow
+│   ├── roadmap.md          # To-do list / milestones
+│   ├── prompts.md          # Generation + validation prompts
+│   └── evaluation.md       # User study, QA notes
+│
+├── tests/                  # Unit tests
+├── .gitignore
+├── LICENSE
+└── README.md
