@@ -1,8 +1,8 @@
 # ml_meme_genedu
-New way of learning Machine Learning concepts through fun educational memes 🎉🤖
-# 🤖 LMLM: Learning Machin Learning Concept through educational Memes
 
-New way of learning Meaching Learning fundamentals in the most Gen Z way possible 🎉
+# 🤖 LMLM: Learning Machine Learning Concept through educational Memes
+
+New way of learning ML fundamentals in the most Gen Z way possible 🎉
 
 ## 🚀 Features
 - Search for ML concepts → get a meme + tooltip explanation
